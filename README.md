@@ -1,7 +1,7 @@
 # Lokesh Reddy
 # 💫 About Me:
 My name is Koncha Sai Lokesh, and I am a passionate Computer Science student with a strong interest in software development, cybersecurity, and machine learning. I enjoy learning new technologies and applying them to solve real-world problems.<br><br>I have experience working with programming languages such as Java, Python, and web technologies, and I am continuously improving my skills in data structures, software engineering, and modern development tools.<br><br>One of my key academic projects involves developing an offline speech translation application using on-device neural networks to translate between English and Hindi, aimed at helping communication in rural areas without internet connectivity.<br><br>In the future, I aspire to build my career in Data Engineering, where I can work on large-scale data processing, data pipelines, and data-driven systems that help organizations make better decisions.<br><br>I am highly motivated to build innovative solutions, collaborate with teams, and contribute to impactful technology projects while growing as a skilled technology professional.
-
+  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokeshreddy5756/) KONCHA SAI LOKESH) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Koncha Sai lokesh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:konchasailokesh@gmail.com) 
